@@ -26,7 +26,7 @@ Key transformations:
 - Add **gross profit percentage**  
 - Extract `year` and `month` from transaction dates  
 
-BigQuery SQL script is included in [`/sql/kf_analysis_table.sql`](kf_analysis_table.sql).  
+BigQuery SQL script is included in [('kf_data_analytics.sql').  
 
 ## 📊 Dashboard Development
 The interactive dashboard was created in **Google Looker Studio**, including:
