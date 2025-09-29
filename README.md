@@ -54,3 +54,5 @@ The interactive dashboard was created in **Google Looker Studio**, including:
 
 ## 👤 Author
 Ditya Ayu Anjani 
+
+- **Rakamin x Kimia Farma Big Data Analytics Project Based Internship Program **
